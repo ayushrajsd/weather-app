@@ -13,5 +13,6 @@ Features
     The Background Image changes by current user dateTime;
 
 Original reference repo - https://github.com/Zurkon/weather-geocoding
+
 Disclaimer: 
 The assets and api have been taken from original repo. I have created this repo without create react app utility, setting up everything from scratch and the implementation is different from original repo.
