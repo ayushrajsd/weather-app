@@ -12,3 +12,5 @@ Features
     Get Weather Forecast from any city;
     The Background Image changes by current user dateTime;
 
+Original reference repo - https://github.com/Zurkon/weather-geocoding
+This repo does not use create react app but incorporates only what is needed.
